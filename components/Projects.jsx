@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: "Futuristic Portfolio",
+    title: "Portfolio",
     desc: "A modern developer portfolio built with Next.js and Tailwind.",
     img: "/project1.png",
     demo: "https://nextjs-abhishek-portfolio.vercel.app/",
@@ -12,6 +12,13 @@ const projects = [
     img: "/project2.png",
     demo: "https://biharmakhana.vercel.app/",
     github: "https://github.com/Abhishek2788/Bihar-s-Makhana.git",
+  },
+  {
+    title: "Indian Saviours",
+    desc: "Educational Website showing the valor of Indian armed forces using Next.js. Currently in development Mode.",
+    img: "/project3.png",
+    demo: "#",
+    github: "https://github.com/Abhishek2788/Indian-Saviours.git",
   },
 ];
 
