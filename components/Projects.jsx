@@ -3,15 +3,15 @@ const projects = [
     title: "Futuristic Portfolio",
     desc: "A modern developer portfolio built with Next.js and Tailwind.",
     img: "/project1.png",
-    demo: "#",
-    github: "#",
+    demo: "https://nextjs-abhishek-portfolio.vercel.app/",
+    github: "https://github.com/Abhishek2788/nextjs-abhishek-portfolio.git",
   },
   {
     title: "Makhana E-Commerce",
-    desc: "E-commerce platform for Bihar’s Makhana using Next.js.",
+    desc: "E-commerce platform for Bihar's Makhana using Next.js.",
     img: "/project2.png",
-    demo: "#",
-    github: "#",
+    demo: "https://biharmakhana.vercel.app/",
+    github: "https://github.com/Abhishek2788/Bihar-s-Makhana.git",
   },
 ];
 
