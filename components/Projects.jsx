@@ -20,6 +20,13 @@ const projects = [
     demo: "#",
     github: "https://github.com/Abhishek2788/Indian-Saviours.git",
   },
+  {
+    title: "Buzzlab",
+    desc: "The project focuses on showcasing alcoholic drinks and cocktails with a modern and interactive design.",
+    img: "/project4.png",
+    demo: "https://buzzlab-world-of-drinks.vercel.app/",
+    github: "https://github.com/Abhishek2788/buzzlab-world-of-drinks.git",
+  },
 ];
 
 export default function Projects() {
