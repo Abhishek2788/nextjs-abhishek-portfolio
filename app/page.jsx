@@ -17,8 +17,8 @@ export default function Home() {
       <section id="skills"><Skills /></section>
       <section id="projects"><Projects /></section>
       <section id="socials"><Socials /></section>
-      <section id="contact"><Contact /></section>
-      <Footer />
+      {/* <section id="contact"><Contact /></section> */}
+      {/* <Footer /> */}
     </main>
   );
 }

@@ -3,11 +3,11 @@ import SectionWrapper from "./SectionWrapper";
 export default function About() {
   return (
     <SectionWrapper id="about">
-      <div className="py-20 px-6 bg-black">
+      <div className="py-20 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-10 border border-white/20">
             <img
-              src="/profile.png"
+              src="/Profile.png"
               alt="Profile"
               className="w-32 h-32 mx-auto rounded-full border-4 border-cyan-400 mb-6"
             />

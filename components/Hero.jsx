@@ -62,7 +62,7 @@ export default function Hero() {
         }}
         className="absolute inset-0 z-0" // ensures particles are behind content
       />
-
+      
       {/* Hero Content */}
       <motion.div
         initial={{ opacity: 0, y: 30 }}
@@ -70,11 +70,11 @@ export default function Hero() {
         transition={{ duration: 1 }}
         className="relative z-10 px-6"
       >
-        <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-cyan-400 via-purple-400 to-blue-400 bg-clip-text text-transparent">
+        <h1 className="text-4xl md:text-7xl font-bold bg-gradient-to-r from-cyan-400 via-purple-400 to-blue-400 bg-clip-text text-transparent">
           Hi, I'm Abhishek Jha
         </h1>
-        <p className="mt-4 text-xl md:text-2xl text-gray-300">
-          Frontend Developer | UI Enthusiast
+        <p className="mt-4 font-bold text-[14px] sm:text-xl md:text-2xl text-gray-300">
+          Software Developer | Data Analyst | Tech Enthusiast
         </p>
         <div className="mt-8 flex gap-4 justify-center">
           <a
@@ -84,10 +84,10 @@ export default function Hero() {
             View Work
           </a>
           <a
-            href="#contact"
+            href="https://docs.google.com/document/d/1UDCFwSzaAkPuikewN8ZvDI8FwLLNlf_EuqvQRQJMvaU/edit?usp=sharing" target="_blank"
             className="px-6 py-3 rounded-xl border border-cyan-400 hover:bg-cyan-400/10 transition"
           >
-            Contact Me
+            Resume
           </a>
         </div>
       </motion.div>

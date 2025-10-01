@@ -3,7 +3,7 @@ import SectionWrapper from "./SectionWrapper";
 export default function Contact() {
   return (
     <SectionWrapper id="contact">
-      <div className="py-20 px-6 bg-gradient-to-b from-black via-purple-950 to-black text-center">
+      <div className="py-20 px-6 text-center">
         <h2 className="text-4xl font-bold text-cyan-400 mb-8">Contact Me</h2>
         <form className="max-w-xl mx-auto flex flex-col gap-4">
           <input

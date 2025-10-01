@@ -19,7 +19,7 @@ export default function SocialMedia() {
 
   return (
     <SectionWrapper id="socialmedia">
-      <div className="py-20 px-6 text-center bg-black">
+      <div className="py-20 px-6 text-center">
         <h2 className="text-4xl font-bold text-cyan-400 mb-12">Follow Me</h2>
         <div className="flex flex-wrap justify-center gap-8 relative">
           {socials.map((social, index) => (
