@@ -7,7 +7,7 @@ export default function About() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-10 border border-white/20">
             <img
-              src="/Profile.png"
+              src="/profile.png"
               alt="Profile"
               className="w-32 h-32 mx-auto rounded-full border-4 border-cyan-400 mb-6"
             />
