@@ -48,6 +48,13 @@ const projects = [
     demo: "#",
     github: "https://github.com/Abhishek2788/Excel-Data-Analyst-Sales_Dashboard.git",
   },
+  {
+    title: "Bookstore SQL Project",
+    desc: "This project showcases SQL skills using PostgreSQL, focusing on solving basic to advanced SQL queries on a Book Database. The project covers everything from filtering and aggregation to grouping, joins, and query optimization. The aim is to simulate a small-scale bookstore database, analyze data patterns, and extract meaningful insights using SQL.",
+    img: "/project8.png",
+    demo: "#",
+    github: "https://github.com/Abhishek2788/SQL-Booksdatabase.git",
+  },
 ];
 
 export default function Projects() {
