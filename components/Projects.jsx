@@ -1,10 +1,10 @@
 const projects = [
   {
-    title: "Portfolio",
-    desc: "A modern developer portfolio built with Next.js and Tailwind.",
-    img: "/project1.png",
-    demo: "https://nextjs-abhishek-portfolio.vercel.app/",
-    github: "https://github.com/Abhishek2788/nextjs-abhishek-portfolio.git",
+    title: "Fullstack E-Commerce",
+    desc: "This is a full-stack eCommerce web application built using React (Vite) for the frontend and admin panel, and Express (Node.js) for the backend.",
+    img: "/project9.png",
+    demo: "#",
+    github: "https://github.com/Abhishek2788/urban-ecommerce-fullstack.git",
   },
   {
     title: "Makhana E-Commerce",

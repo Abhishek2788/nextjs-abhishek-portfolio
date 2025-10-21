@@ -1,6 +1,10 @@
 "use client";
 import SectionWrapper from "./SectionWrapper";
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from "react-icons/fa";
+// import { FaGithub, FaLinkedin, FaXTwitter, FaInstagram } from "react-icons";
+import { FaGithub } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
+import { FaInstagram } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
 import { useCallback } from "react";
@@ -13,7 +17,7 @@ export default function SocialMedia() {
   const socials = [
     { icon: <FaGithub />, name: "GitHub", url: "https://github.com/Abhishek2788", color: "cyan-400" },
     { icon: <FaLinkedin />, name: "LinkedIn", url: "https://www.linkedin.com/in/abhishek-jha-502b23217/", color: "blue-500" },
-    { icon: <FaTwitter />, name: "Twitter", url: "https://x.com/abhishekjha2763", color: "sky-400" },
+    { icon: <FaXTwitter />, name: "Twitter", url: "https://x.com/abhishekjha2763", color: "sky-400" },
     { icon: <FaInstagram />, name: "Instagram", url: "https://www.instagram.com/abhishekjha2763/", color: "pink-500" },
   ];
 
