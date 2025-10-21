@@ -84,7 +84,7 @@ export default function Hero() {
             View Work
           </a>
           <a
-            href="https://docs.google.com/document/d/1UDCFwSzaAkPuikewN8ZvDI8FwLLNlf_EuqvQRQJMvaU/edit?usp=sharing" target="_blank"
+            href="https://docs.google.com/document/d/1MR9pdsu-oUD7u8QpdJJ3Maduv4nAQF81T9aGgt9h2cY/edit?usp=sharing" target="_blank"
             className="px-6 py-3 rounded-xl border border-cyan-400 hover:bg-cyan-400/10 transition"
           >
             Resume
