@@ -55,6 +55,13 @@ const projects = [
     demo: "#",
     github: "https://github.com/Abhishek2788/SQL-Booksdatabase.git",
   },
+  {
+    title: "Phone Sales Analysis Power BI Dashboard",
+    desc: "This Power BI project focuses on analyzing phone sales data and transforming raw Excel files into clean, structured datasets.",
+    img: "/project10.png",
+    demo: "#",
+    github: "https://github.com/Abhishek2788/Phone-Sales-Data-Analysis-PowerBI.git",
+  },
 ];
 
 export default function Projects() {

@@ -14,6 +14,7 @@ export default function Skills() {
     { name: "Express", icon: "/icons/Express.svg" },
     { name: "SQL", icon: "/icons/Sql.svg" },
     { name: "Excel", icon: "/icons/Excel.svg" },
+    { name: "PowerBI", icon: "/icons/PowerBI.svg" },
     { name: "Git", icon: "/icons/Git.svg" },
     
   ];
